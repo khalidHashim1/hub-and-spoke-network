@@ -44,7 +44,7 @@ Private routing enables communication between all spoke VPCs through the central
 
 ## Architecture Diagram
 
-> Replace this image with your exported AWS architecture diagram.
+> AWS architecture diagram.
 
 ![Architecture](TGW.png)
 
